@@ -9,7 +9,7 @@
 - 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations.
 - 📄 My Resume: [https://1drv.ms/b/s!AjAb-MaNfIQthjwYUCAtFClFv4X0?e=sJsQdb](https://1drv.ms/b/s!AjAb-MaNfIQthjwYUCAtFClFv4X0?e=sJsQdb)
 - 🧑‍💻 I love to watch and listen Horror and Sci-fi category Movies and Audio stories.
-- 📫 You can Contact me at: **arghyadutta080@gmail.com**
+- 📫 You can contact me at: **arghyadutta080@gmail.com**
 
 
 <h3 align="left">📧 I am also available here: <h3>
