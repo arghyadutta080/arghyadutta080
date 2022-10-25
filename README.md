@@ -1,8 +1,8 @@
 <h1 align="center">Hello!👋 I am Arghya Dutta from Kolkata, India.</h1>
 <h3 align="center">Engineering Student and enthusiastic learner in the software development field </h3>
 
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sscuber03&label=Profile%20views&style=for-the-badge" alt="Sscuber03" /> </p> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arghyadutta080&label=Profile%20views&color=0e75b6&style=flat" alt="arghyadutta080" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghyadutta080&label=Profile%20views&style=for-the-badge" alt="arghyadutta080" /> </p> -->
 
 - 📚 I'm a 2nd year CSE Student at RCC Institute of Information Technology.
 - 🌱 I’m currently learning **DSA and Web Development**.
