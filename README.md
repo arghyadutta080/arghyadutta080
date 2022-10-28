@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **DSA and Web Development**.
 - 👀 I’m interested in learning more about **Android Development, Web3 and AI-ML**.
 - 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations.
-- 📄 My Resume: [https://1drv.ms/b/s!AjAb-MaNfIQthjwYUCAtFClFv4X0?e=sJsQdb](https://1drv.ms/b/s!AjAb-MaNfIQthjwYUCAtFClFv4X0?e=sJsQdb)
+- 📄 My Resume: [Resume Link here](https://www.canva.com/design/DAFQUiYtcb0/mZ5mTWr0VLCVXpIo28oYIQ/view?utm_content=DAFQUiYtcb0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - 🧑‍💻 I love to watch and listen Horror and Sci-fi category Movies and Audio stories.
 - 📫 You can contact me at: **arghyadutta080@gmail.com**
 
