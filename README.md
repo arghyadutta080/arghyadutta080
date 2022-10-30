@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **DSA and Web Development**.
 - 👀 I’m interested in learning more about **Android Development, Web3 and AI-ML**.
 - 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations.
-- 📄 Visit here 👉🏻 **[Resume: Arghya Dutta](https://www.canva.com/design/DAFQUiYtcb0/mZ5mTWr0VLCVXpIo28oYIQ/view?utm_content=DAFQUiYtcb0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
+- 📄 Here is my **[Resume](https://www.canva.com/design/DAFQUiYtcb0/mZ5mTWr0VLCVXpIo28oYIQ/view?utm_content=DAFQUiYtcb0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
 - 🧑‍💻 I love to watch and listen Horror and Sci-fi category Movies and Audio stories.
 - 📫 You can contact me at: **arghyadutta080@gmail.com**
 
@@ -41,6 +41,7 @@
 
 
 <h3 align="center">🏅 My GitHub Stats 🏅</h3>
+ <div aligh="center">![Profile views](https://gpvc.arturio.dev/bartick)</div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadutta080&layout=compact&theme=dark#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api?username=arghyadutta080&show_icons=true&include_all_commits=true&theme=dark">
