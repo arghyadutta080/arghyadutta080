@@ -12,7 +12,7 @@
 - 📫 You can contact me at: **arghyadutta080@gmail.com**
 
 
-<h3 align="left">📧 I am also available here: <h3>
+# <h3 align="left">📧 I am also available here: <h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arghya-dutta-623617229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arghya-dutta-623617229" height="30" width="40" /></a>  
 <a href="https://twitter.com/arghya_dutta08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arghya_dutta08" height="30" width="40" /></a>
@@ -23,7 +23,7 @@
 </p>
 
 
-<h3 align="left">🤖💻 Technologies I can use but not limited to: </h3>
+# <h3 align="left">🤖💻 Technologies I can use but not limited to: </h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -40,7 +40,7 @@
 </p>
 
 
-<h3 align="center">🏅 My GitHub Stats 🏅</h3>
+# <h3 align="center">🏅 My GitHub Stats 🏅</h3>
 <!--  <div aligh="center">![Profile views](https://gpvc.arturio.dev/arghyadutta080)</div> -->
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadutta080&layout=compact&theme=dark#gh-dark-mode-only">
