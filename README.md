@@ -1,4 +1,4 @@
-<h1 align="center">Hello!👋 I am Arghya Dutta from Kolkata, India.</h1>
+<h1 align="center">Welcome to my GitHub profile</h1>
 <h3 align="center">Engineering Student and enthusiastic learner in the software development field </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghyadutta080&label=Profile%20views&style=for-the-badge" alt="arghyadutta080" /> </p> -->
