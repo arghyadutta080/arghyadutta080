@@ -1,9 +1,8 @@
-<h2 align="center">Welcome to my GitHub profile</h2>
+<h1 align="center">Welcome to my GitHub profile</h1>
 <h3 align="center">Engineering Student and enthusiastic learner in the software development field</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghyadutta080&label=Profile%20views&style=for-the-badge" alt="arghyadutta080" /> </p> -->
 
-## About Me
 - 📚 I'm a 2nd year CSE Student at RCC Institute of Information Technology.
 - 🌱 I’m currently learning **DSA and Web Development**.
 - 👀 I’m interested in learning more about **Android Development, Web3 and AI-ML**.
