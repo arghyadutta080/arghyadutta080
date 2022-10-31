@@ -46,6 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadutta080&layout=compact&theme=dark#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api?username=arghyadutta080&show_icons=true&include_all_commits=true&theme=dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadutta080&theme=dark">
+<a href="https://github.com/arghyadutta080/github-readme-activity-graph"><img alt="Arghya Dutta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arghyadutta080&bg_color=0D1117&color=FFFFFF&line=ff6600&point=FFFFFF&hide_border=true" /></a>
 </div>
 
 <div align="center">
