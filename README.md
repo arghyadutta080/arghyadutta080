@@ -51,7 +51,7 @@
 
 <div align="center">
 <h3 align="center">🏆 My Github Trophies 🏆</h3>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=arghyadutta080&theme=onedark&no-frame=true&no-bg=true&theme=discord">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=arghyadutta080&theme=onedark">
 </div>
 
 <!---
