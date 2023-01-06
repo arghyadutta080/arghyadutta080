@@ -34,6 +34,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/indie-hackers.appspot.com/group-icons/django/7vMAs60R0kOYmcYOR8E07Ya7GIX2" alt="tailwind" width="40" height="40"/> </a>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.freeiconspng.com/uploads/git-github-hub-icon-25.png" alt="github" width="44" height="44"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="38" height="38"/> </a>
@@ -48,7 +49,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadutta080&layout=compact&theme=dark#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api?username=arghyadutta080&show_icons=true&include_all_commits=true&theme=dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadutta080&theme=dark">
-<a href="https://github.com/arghyadutta080/github-readme-activity-graph"><img alt="Arghya Dutta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arghyadutta080&bg_color=000000&color=FFFFFF&line=ff6600&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/arghyadutta080/github-readme-activity-graph"><img alt="Arghya Dutta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arghyadutta080&bg_color=000000&color=FFFFFF&line=ff6600&point=FFFFFF&hide_border=true" /></a> -->
 </div>
 
 <div align="center">
