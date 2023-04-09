@@ -5,7 +5,7 @@
 
 - 📚 I'm a 2nd year CSE Student at RCC Institute of Information Technology.
 - 🌱 I’m currently learning **DSA and Web Development**.
-- 👀 I’m interested in learning more about **Android Development and Web3**.
+- 👀 I’m interested in learning more about **Android and iOS Development and Web3**.
 - 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations.
 - 📄 Here is my **[Resume](https://www.canva.com/design/DAFQUiYtcb0/mZ5mTWr0VLCVXpIo28oYIQ/view?utm_content=DAFQUiYtcb0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**.
 - 🧑‍💻 I love to watch and listen Horror and Sci-fi category Movies and Audio stories.
