@@ -25,24 +25,29 @@
 
 # <h3 align="left">🤖💻 Technologies I can use but not limited to: </h3>
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" alt="html5" width="35" height="=37"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" alt="css3" width="35" height="37"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/bootstrap-logo.png" alt="bootstrap" width="37" height="37"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="37" height="37"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/firebase-logo.png" alt="firebase" width="35" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/django-logo.png" alt="django" width="33" height="37"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="37" height="37"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="37" height="37"/> </a>
+<a href="https://www.cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="37" height="37"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="35" height="=37"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="35" height="37"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="37" height="37"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="37" height="37"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="37" height="37"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="37" height="37"/> </a>  
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="37" height="37"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="37" height="37"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongoDB" width="37" height="37"/> </a>    
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="37" height="37"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="37" height="37"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="37" height="37"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="38" height="38"/> </a>
+<a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=replit" alt="replit" width="37" height="37"/> </a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="39" height="39"/> </a> 
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/django-logo.png" alt="django" width="33" height="37"/> </a>  -->
 <!-- <a href="https://pymongo.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://colmenaenlanube.es/wp-content/uploads/2021/04/mongodb-compass.png" alt="pymongo" width="40" height="40"/> </a>    -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.freeiconspng.com/uploads/git-github-hub-icon-25.png" alt="github" width="44" height="44"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="38" height="38"/> </a>
-<a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" alt="replit" width="43" height="43"/> </a>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="netlify" width="39" height="39"/> </a>  
 </p>
 
+  
 
 # <h3 align="center">🏅 My GitHub Stats 🏅</h3>
 <!--  <div aligh="center">![Profile views](https://gpvc.arturio.dev/arghyadutta080)</div> -->
