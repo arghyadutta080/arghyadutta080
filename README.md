@@ -39,6 +39,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="37" height="37"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongoDB" width="37" height="37"/> </a>    
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="37" height="37"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="37" height="37"/> </a>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="37" height="37"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="37" height="37"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="38" height="38"/> </a>
