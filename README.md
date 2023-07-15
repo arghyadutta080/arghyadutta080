@@ -4,7 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghyadutta080&label=Profile%20views&style=for-the-badge" alt="arghyadutta080" /> </p> -->
 
 - 📚 I'm a 3rd year CSE Student at RCC Institute of Information Technology.
-- 🌱 I’m currently learning **Web and App Development**.
+- 🌱 I’m currently belong to **Web and App Development** domain. 
 - 👀 I’m currently working on **Talky**, a chat web-app.
 - 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations.
 - 📄 Here is my **[Resume](https://www.canva.com/design/DAFQUiYtcb0/mZ5mTWr0VLCVXpIo28oYIQ/view?utm_content=DAFQUiYtcb0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**.
