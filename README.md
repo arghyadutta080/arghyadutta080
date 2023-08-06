@@ -14,11 +14,12 @@
 # <h3 align="left">📧 I am also available here: <h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arghya-dutta-623617229" target="blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&color=0072b1'/></a>  
-<a href="https://www.facebook.com/arghya.dutta.9404/" target="blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=black&color=1F1449'/></a>
+<a href="https://www.facebook.com/arghya.dutta.9404/" target="blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=black&color=000080'/></a>
 <a href="https://www.instagram.com/_arghya_dutta_/" target="blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000&color=FF009E'/></a>
 <!-- 
 <a href="https://auth.geeksforgeeks.org/user/arghya_dutta080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arghya_dutta080" height="30" width="40" /></a> -->
 <a href="https://twitter.com/Arghya_Dutta08" target="blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=000000&color=33BBFF'/></a>
+<a href="discordapp.com/users/dev_dark_knight" target="blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black&color=6B00B3'/></a>
 <a href="https://www.hackerrank.com/arghyadutta080" target="blank"><img alt='HackerRank' src='https://img.shields.io/badge/hackerrank-100000?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=000000&color=006600'/></a>
 </p>
 
