@@ -27,6 +27,7 @@
 # <h3 align="left">🤖💻 Technologies I can use but not limited to: </h3>
 <!-- <img align="right" height="350" width="350" src="./arc-reacter.png" alt="Iron Man 3 Arc Reactor Png@clipartmax.com"/> -->
 <!-- <div align="left"> -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 <p align="left">
 <h4 align="left">Programming Languages: </h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="37" height="37"/> </a>
