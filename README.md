@@ -25,7 +25,7 @@
 
 
 # <h3 align="left">🤖💻 Technologies I can use but not limited to: </h3>
-<img align="right" height="350" width="500" src="./arc-reacter.png" alt="Iron Man 3 Arc Reactor Png@clipartmax.com"/>
+<img align="right" height="350" width="350" src="./arc-reacter.png" alt="Iron Man 3 Arc Reactor Png@clipartmax.com"/>
 <!-- <div align="left"> -->
 <p align="left">
 <h4 align="left">Programming Languages: </h4>
