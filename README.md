@@ -25,8 +25,8 @@
 
 
 # <h3 align="left">🤖💻 Technologies I can use but not limited to: </h3>
-<div align="center">
-<div align="left">
+<img align="right" src="./arc-reacter.png" alt="Iron Man 3 Arc Reactor Png@clipartmax.com"/>
+<!-- <div align="left"> -->
 <p align="left">
 <h4 align="left">Programming Languages: </h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="37" height="37"/> </a>
@@ -57,9 +57,11 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="37" height="37"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="37" height="37"/> </a>
 </p>
-</div>
-<img src="https://www.clipartmax.com/png/middle/165-1658463_iron-man-3-arc-reactor-png.png" alt="Iron Man 3 Arc Reactor Png@clipartmax.com">
-</div>
+
+<!-- </div> -->
+<!-- <div align="right"> -->
+<!-- </div> -->
+<!-- </div> -->
 
 # <h3 align="center">🏅 My GitHub Stats 🏅</h3>
 <!--  <div aligh="center">![Profile views](https://gpvc.arturio.dev/arghyadutta080)</div> -->
