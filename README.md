@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Welcome to my GitHub profile</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Welcome to my GitHub profile &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h1>
 <h3 align="center">Engineering Student and enthusiastic learner in the software development field</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghyadutta080&label=Profile%20views&style=for-the-badge" alt="arghyadutta080" /> </p> -->
@@ -13,7 +13,7 @@
 - 📫 You can contact me at : **arghyadutta080@gmail.com**
 
 
-# <h3 align="left">📧 I am also available here: <h3>
+# <h3 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="40"/> I am also available here: <h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arghya-dutta-623617229" target="blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&color=0072b1'/></a>  
 <a href="https://www.facebook.com/arghya.dutta.9404/" target="blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=black&color=000080'/></a>
