@@ -25,6 +25,8 @@
 
 
 # <h3 align="left">🤖💻 Technologies I can use but not limited to: </h3>
+<div align="center">
+<div align="left">
 <p align="left">
 <h4 align="left">Programming Languages: </h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="37" height="37"/> </a>
@@ -54,6 +56,10 @@
 <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=replit" alt="replit" width="37" height="37"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="37" height="37"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="37" height="37"/> </a>
+</p>
+</div>
+<img src="https://www.clipartmax.com/png/middle/165-1658463_iron-man-3-arc-reactor-png.png" alt="Iron Man 3 Arc Reactor Png@clipartmax.com">
+</div>
 
 # <h3 align="center">🏅 My GitHub Stats 🏅</h3>
 <!--  <div aligh="center">![Profile views](https://gpvc.arturio.dev/arghyadutta080)</div> -->
@@ -61,7 +67,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadutta080&layout=compact&theme=dark#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api?username=arghyadutta080&show_icons=true&include_all_commits=true&theme=dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadutta080&theme=dark">
-<!-- <a href="https://github.com/arghyadutta080/github-readme-activity-graph"><img alt="Arghya Dutta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arghyadutta080&bg_color=000000&color=FFFFFF&line=ff6600&point=FFFFFF&hide_border=true" /></a> -->
 </div>
 
 <div align="center">
