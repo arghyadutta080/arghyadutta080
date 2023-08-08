@@ -26,33 +26,33 @@
 
 # <h3 align="left">🤖💻 Technologies I can use but not limited to: </h3>
 <p align="left">
+<h4 align="left">Programming Languages: </h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="37" height="37"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="37" height="37"/> </a>
 <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="37" height="37"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="37" height="=37"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="37" height="37"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="37" height="37"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="37" height="37"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="37" height="37"/> </a>
+<h4 align="left">Development Libraries & Frameworks: </h4>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="37" height="37"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="react" width="37" height="37"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="37" height="37"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="37" height="37"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="37" height="37"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="37" height="37"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="37" height="37"/> </a>  
+<h4 align="left">Databases & Cloud Platforms: </h4>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongoDB" width="37" height="37"/> </a>    
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="37" height="37"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="37" height="37"/> </a>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="37" height="37"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="37" height="37"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="38" height="38"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="38" height="38"/> </a>
-<a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=replit" alt="replit" width="37" height="37"/> </a>
+<h4 align="left">Hosting & Testing: </h4>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="38" height="38"/> </a> 
 <a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="38" height="39"/> </a> 
-<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/django-logo.png" alt="django" width="33" height="37"/> </a>  -->
-<!-- <a href="https://pymongo.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://colmenaenlanube.es/wp-content/uploads/2021/04/mongodb-compass.png" alt="pymongo" width="40" height="40"/> </a>    -->
-</p>
-
-  
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="38" height="38"/> </a>
+<h4 align="left">IDE & Version Control: </h4>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="38" height="38"/> </a>
+<a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=replit" alt="replit" width="37" height="37"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="37" height="37"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="37" height="37"/> </a>
 
 # <h3 align="center">🏅 My GitHub Stats 🏅</h3>
 <!--  <div aligh="center">![Profile views](https://gpvc.arturio.dev/arghyadutta080)</div> -->
