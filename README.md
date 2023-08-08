@@ -45,8 +45,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="37" height="37"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="37" height="37"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="37" height="37"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="37" height="37"/> </a>  
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tkinter" alt="django" width="37" height="37"/> </a>  
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="37" height="37"/> </a>    
 <h4 align="left">Databases & Cloud Platforms: </h4>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongoDB" width="37" height="37"/> </a>    
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="37" height="37"/> </a>
