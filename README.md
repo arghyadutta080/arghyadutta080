@@ -47,15 +47,16 @@
 <h4 align="left">Databases & Cloud Platforms: </h4>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongoDB" width="37" height="37"/> </a>    
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="37" height="37"/> </a>
-<h4 align="left">Hosting & Testing: </h4>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="38" height="38"/> </a> 
-<a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="38" height="39"/> </a> 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="38" height="38"/> </a>
-<h4 align="left">IDE & Version Control: </h4>
+<!-- <h4 align="left">Hosting & Testing: </h4> -->
+
+<h4 align="left">IDE, other tools & platforms: </h4>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="38" height="38"/> </a>
 <a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=replit" alt="replit" width="37" height="37"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="37" height="37"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="37" height="37"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="38" height="38"/> </a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="38" height="38"/> </a> 
+<a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="38" height="39"/> </a> 
 </p>
 
 <!-- </div> -->
