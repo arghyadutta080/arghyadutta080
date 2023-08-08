@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h1 align="center">Welcome to my GitHub profile</h1>
 <h3 align="center">Engineering Student and enthusiastic learner in the software development field</h3>
 
