@@ -13,7 +13,7 @@
 - 📫 You can contact me at : **arghyadutta080@gmail.com**
 
 
-# <h3 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="40"/> I am also available here: <h3>
+<h3 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="40"/> I am also available here: <h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arghya-dutta-623617229" target="blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&color=0072b1'/></a>  
 <a href="https://www.facebook.com/arghya.dutta.9404/" target="blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=black&color=000080'/></a>
@@ -26,7 +26,7 @@
 </p>
 
 
-# <h3 align="left">🤖💻 Technologies I can use but not limited to: </h3>
+<h3 align="left"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" /> &nbsp; Technologies I can use but not limited to: </h3>
 <!-- <img align="right" height="350" width="350" src="./arc-reacter.png" alt="Iron Man 3 Arc Reactor Png@clipartmax.com"/> -->
 <!-- <div align="left"> -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
