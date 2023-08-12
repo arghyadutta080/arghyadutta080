@@ -13,22 +13,18 @@
 - 📫 You can contact me at : **arghyadutta080@gmail.com**
 
 
-<h3 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="40"/> I am also available here: <h3>
+# <h3 align="left"> 📞 I am also available here: <h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arghya-dutta-623617229" target="blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&color=0072b1'/></a>  
 <a href="https://www.facebook.com/arghya.dutta.9404/" target="blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=black&color=000080'/></a>
 <a href="https://www.instagram.com/_arghya_dutta_/" target="blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000&color=FF009E'/></a>
-<!-- 
-<a href="https://auth.geeksforgeeks.org/user/arghya_dutta080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arghya_dutta080" height="30" width="40" /></a> -->
 <a href="https://twitter.com/Arghya_Dutta08" target="blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=000000&color=33BBFF'/></a>
 <a href="discordapp.com/users/dev_dark_knight" target="blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black&color=6B00B3'/></a>
 <a href="https://www.hackerrank.com/arghyadutta080" target="blank"><img alt='HackerRank' src='https://img.shields.io/badge/hackerrank-100000?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=000000&color=006600'/></a>
 </p>
 
 
-<h3 align="left"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" /> &nbsp; Technologies I can use but not limited to: </h3>
-<!-- <img align="right" height="350" width="350" src="./arc-reacter.png" alt="Iron Man 3 Arc Reactor Png@clipartmax.com"/> -->
-<!-- <div align="left"> -->
+# <h3 align="left">🧑‍💻 Technologies I can use but not limited to: </h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 <p align="left">
 <h4 align="left">Programming Languages: </h4>
@@ -49,7 +45,7 @@
 <h4 align="left">Databases & Cloud Platforms: </h4>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongoDB" width="37" height="37"/> </a>    
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="37" height="37"/> </a>
-<!-- <h4 align="left">Hosting & Testing: </h4> -->
+
 
 <h4 align="left">IDE, other tools & platforms: </h4>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="38" height="38"/> </a>
@@ -61,10 +57,6 @@
 <a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="38" height="39"/> </a> 
 </p>
 
-<!-- </div> -->
-<!-- <div align="right"> -->
-<!-- </div> -->
-<!-- </div> -->
 
 # <h3 align="center">🏅 My GitHub Stats 🏅</h3>
 <!--  <div aligh="center">![Profile views](https://gpvc.arturio.dev/arghyadutta080)</div> -->
@@ -79,8 +71,4 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=arghyadutta080&theme=onedark">
 </div>
 
-<!---
-arghyadutta080/arghyadutta080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-You can click the Preview link to take a look at your changes.
---->
