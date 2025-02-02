@@ -8,7 +8,6 @@
 - 📚 I'm a pre-final year CSE Student at RCC Institute of Information Technology.
 - 🌱 I’m currently working on **Web and App Development** domain. 
 - 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations.
-- 📄 Here is my **[Resume](https://arghyadutta-resume.tiiny.site/)**.
 - 🧑‍💻 I love to watch and listen Horror and Sci-fi category Movies and Audio stories.
 - 📫 You can contact me at : **arghyadutta080@gmail.com**
 
@@ -35,8 +34,10 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="37" height="37"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="37" height="37"/> </a>
 <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="javascript" width="37" height="37"/> </a>
-<h4 align="left">Development Libraries & Frameworks: </h4>
+
+  <h4 align="left">Development Libraries & Frameworks: </h4>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="37" height="37"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vite" alt="react" width="37" height="37"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=next" alt="react" width="37" height="37"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="react" width="37" height="37"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="37" height="37"/> </a>
@@ -45,6 +46,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="37" height="37"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="37" height="37"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="express" width="37" height="37"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="express" width="37" height="37"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=zustand" alt="express" width="37" height="37"/> </a> 
 
 <h4 align="left">Databases & Cloud Platforms: </h4>
@@ -52,6 +54,7 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="_mysql" width="37" height="37"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="37" height="37"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=supabase" alt="_supabase" width="37" height="37"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="express" width="37" height="37"/> </a>
 
 
 <h4 align="left">IDE, other tools & platforms: </h4>
@@ -60,6 +63,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="37" height="37"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="37" height="37"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="37" height="37"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="express" width="37" height="37"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="38" height="38"/> </a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="38" height="38"/> </a> 
 <a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="38" height="39"/> </a> 
