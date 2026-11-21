@@ -38,7 +38,6 @@ An AI-powered career companion designed to help candidates make more informed jo
 - Assist with resume improvement and personalized cover letters.
 - Integrate Google Gemini through LangChain.
 - Support real-time AI responses using Server-Sent Events (SSE).
-- Use GraphQL, REST APIs, and MongoDB across the application.
 
 **Tech:** `React` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `LangChain` · `Google Gemini` · `GraphQL` · `SSE`
 
