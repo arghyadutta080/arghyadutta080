@@ -1,86 +1,149 @@
-![Header](./github-header-image.png)
-
-<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /> &nbsp; Welcome to my GitHub profile &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /></h1>
-<h3 align="center">Engineering Student and enthusiastic learner in the software development field</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghyadutta080&label=Profile%20views&style=for-the-badge" alt="arghyadutta080" /> </p> -->
-
-- 📚 I'm a pre-final year CSE Student at RCC Institute of Information Technology.
-- 🌱 I’m currently working on **Web and App Development** domain. 
-- 💞️ I’m looking to contribute everywhere possible, and learn from the collaborations.
-- 🧑‍💻 I love to watch and listen Horror and Sci-fi category Movies and Audio stories.
-- 📫 You can contact me at : **arghyadutta080@gmail.com**
-
-
-# <h3 align="left"> 📞 I am also available here: <h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/arghya-dutta-623617229" target="blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&color=0072b1'/></a>  
-<a href="https://www.facebook.com/arghya.dutta.9404/" target="blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=black&color=000080'/></a>
-<a href="https://www.instagram.com/_arghya_dutta_/" target="blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000&color=FF009E'/></a>
-<a href="https://twitter.com/Arghya_Dutta08" target="blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=000000&color=33BBFF'/></a>
-<a href="discordapp.com/users/dev_dark_knight" target="blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black&color=6B00B3'/></a>
-<a href="https://www.hackerrank.com/arghyadutta080" target="blank"><img alt='HackerRank' src='https://img.shields.io/badge/hackerrank-100000?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=000000&color=006600'/></a>
-</p>
-
-
-# <h3 align="left">🧑‍💻 Technologies I can use but not limited to: </h3>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-<p align="left">
-<h4 align="left">Programming Languages: </h4>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="37" height="37"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="37" height="37"/> </a>
-<a href="https://www.cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="37" height="37"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="37" height="=37"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="37" height="37"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="37" height="37"/> </a>
-<a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="javascript" width="37" height="37"/> </a>
-
-  <h4 align="left">Development Libraries & Frameworks: </h4>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="37" height="37"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vite" alt="react" width="37" height="37"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=next" alt="react" width="37" height="37"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="react" width="37" height="37"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="37" height="37"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="37" height="37"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=materialui" alt="tailwindcss" width="37" height="37"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="37" height="37"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="37" height="37"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="express" width="37" height="37"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="express" width="37" height="37"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=zustand" alt="express" width="37" height="37"/> </a> 
-
-<h4 align="left">Databases & Cloud Platforms: </h4>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongoDB" width="37" height="37"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="_mysql" width="37" height="37"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="37" height="37"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=supabase" alt="_supabase" width="37" height="37"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="express" width="37" height="37"/> </a>
-
-
-<h4 align="left">IDE, other tools & platforms: </h4>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="38" height="38"/> </a>
-<a href="https://replit.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=replit" alt="replit" width="37" height="37"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="37" height="37"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="37" height="37"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="37" height="37"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="express" width="37" height="37"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="38" height="38"/> </a>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="38" height="38"/> </a> 
-<a href="https://vercel.com/dashboard" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="38" height="39"/> </a> 
-</p>
-
-
-# <h3 align="center">🏅 My GitHub Stats 🏅</h3>
-<!--  <div aligh="center">![Profile views](https://gpvc.arturio.dev/arghyadutta080)</div> -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadutta080&layout=compact&theme=dark#gh-dark-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=arghyadutta080&show_icons=true&include_all_commits=true&theme=dark">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadutta080&theme=dark">
+
+# Hey, I'm Arghya Dutta 👋
+
+### Fulltime Software Engineer · AI Application Developer
+
+Building thoughtful products with **modern web technologies, scalable software architecture, and applied AI**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://arghya-dutta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghya-dutta-developer)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arghyadutta080@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=arghyadutta080&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)
+
 </div>
 
+---
+
+## 🧠 About Me
+
+I'm a Full Stack Engineer interested in building useful, reliable applications—from polished frontend experiences to backend systems and AI-powered workflows.
+
+- 💻 Working across frontend engineering, backend APIs, and application architecture.
+- 🤖 Building AI-powered experiences with LLM integrations, LangChain, and Google Gemini.
+- ⚡ Interested in real-time applications, micro-frontends, API design, and performance.
+- 🧩 Enjoy turning complex requirements into maintainable software.
+- 🎓 B.Tech in Computer Science & Engineering, RCC Institute of Information Technology.
+
+
+## 🚀 Featured Project
+
+### 🤖 Career Copilot AI
+
+An AI-powered career companion designed to help candidates make more informed job applications.
+
+- Analyze resumes against job descriptions.
+- Generate ATS-oriented insights and identify skill gaps.
+- Assist with resume improvement and personalized cover letters.
+- Integrate Google Gemini through LangChain.
+- Support real-time AI responses using Server-Sent Events (SSE).
+- Use GraphQL, REST APIs, and MongoDB across the application.
+
+**Tech:** `React` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `LangChain` · `Google Gemini` · `GraphQL` · `SSE`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Project-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://career-copilot-ai-web.vercel.app)
+[![Frontend Repository](https://img.shields.io/badge/Frontend-Repository-181717?style=flat-square&logo=github)](https://github.com/arghyadutta080/Career-Copilot-AI-Frontend)
+[![Backend Repository](https://img.shields.io/badge/Backend-Repository-181717?style=flat-square&logo=github)](https://github.com/arghyadutta080/Career-Copilot-AI-Server)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=for-the-badge&logo=remotion&logoColor=white)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Server--Sent Events](https://img.shields.io/badge/Server--Sent_Events-4B5563?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### AI & LLM Development
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-6C5CE7?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=for-the-badge)
+![AI Workflow Orchestration](https://img.shields.io/badge/AI_Workflow_Orchestration-0F766E?style=for-the-badge)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Development Tools
+
+![Visual_Studio_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude_Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-<h3 align="center">🏆 My Github Trophies 🏆</h3>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=arghyadutta080&theme=onedark">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arghyadutta080&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadutta080&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=arghyadutta080&theme=tokyonight&hide_border=true" />
+
 </div>
 
+---
 
+## 🏆 Community & Recognition
+
+- **Google Developer Student Clubs, RCCIIT — Chapter Lead (2023–24):** Led a 12-member core team, supported a community of 1,000+ members, and organized 15+ events.
+- **DevFest Kolkata:** Contributed to the chapter's recognition as a top community partner.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with engineers, exchange ideas, and collaborate on meaningful projects.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-arghya--dutta.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://arghya-dutta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arghya_Dutta-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arghya-dutta-developer)
+[![GitHub](https://img.shields.io/badge/GitHub-arghyadutta080-181717?style=for-the-badge&logo=github)](https://github.com/arghyadutta080)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail)](mailto:arghyadutta080@gmail.com)
+
+### ✨ Turning ideas into useful, intelligent software.
+
+</div>
